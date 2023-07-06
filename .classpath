@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="2.Array_Programms"/>
+	<classpathentry kind="src" path="1.Number_Programs"/>
+	<classpathentry kind="src" path="3.String_Programs"/>
+	<classpathentry kind="src" path="4.LinearSearchBinarySearch&amp;Sorting"/>
+	<classpathentry kind="src" path="5.Oops"/>
+	<classpathentry kind="src" path="6.String_Api"/>
+	<classpathentry kind="src" path="7.Collection"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
