@@ -4,7 +4,7 @@ public class Count_No_Of_Digits_0 {
 
 	public static void main(String[] args) {
 
-		int num = 12345, sum = 0;
+		int num = 12345;
 		int count = 0;
 
 		while (num != 0) {
