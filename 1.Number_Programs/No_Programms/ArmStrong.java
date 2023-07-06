@@ -1,6 +1,6 @@
 package No_Programms;
 
-class ArmStrong {
+public class ArmStrong {
 	public static void main(String[] args) {
 		int temp, n = 153, c = 0, a;
 		temp = n;
