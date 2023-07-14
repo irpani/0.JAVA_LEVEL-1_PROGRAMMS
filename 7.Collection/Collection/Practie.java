@@ -7,7 +7,7 @@ public class Practie {
 
 	public void m1() {
 
-		List<Integer> li = new ArrayList();
+		List<Integer> li = new ArrayList<Integer>();
 		li.add(10);
 		li.add(20);
 		li.add(30);
