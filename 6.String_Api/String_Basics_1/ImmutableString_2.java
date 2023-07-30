@@ -9,6 +9,6 @@ public class ImmutableString_2 {
 
 		System.out.println("-------------------");
 		String str2 = str.concat("World");
-		System.out.println("After Creation Of new Object Allowed Operations" + str2);
+		System.out.println("After Creation Of new Object Allowed Operations On Srings" + str2);
 	}
 }

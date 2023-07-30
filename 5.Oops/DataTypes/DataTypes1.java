@@ -34,6 +34,9 @@ public class DataTypes1 {
 
 		// Explicict Conversion
 
+		// Up casting
+		// DownCasting
+
 		// ____Wrappers____ Mainly for Data Convesion
 
 		// Byte
