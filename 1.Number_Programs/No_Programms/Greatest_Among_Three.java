@@ -1,6 +1,6 @@
 package No_Programms;
 
-public class Greatest_Amon_Three {
+public class Greatest_Among_Three {
 
 	public static void main(String[] args) {
 		int a = -1;

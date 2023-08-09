@@ -4,7 +4,7 @@ public class Prime_Number {
 
 	public static void main(String[] args) {
 		// Logic :Number Divisible By 2 & Itself
-		int n = 11;
+		int n = 10;
 		boolean prime = true;
 
 		for (int i = 2; i < n; i++) {

@@ -2,12 +2,12 @@ package No_Programms;
 
 public class ArmStrong {
 	public static void main(String[] args) {
-		int temp, n = 153, c = 0, a;
-		temp = n;
+		int temp, num = 153, c = 0, a;
+		temp = num;
 
-		while (n != 0) {
-			a = n % 10;
-			n = n / 10;
+		while (num != 0) {
+			a = num % 10;
+			num = num / 10;
 			c = c + a * a * a;
 		}
 
