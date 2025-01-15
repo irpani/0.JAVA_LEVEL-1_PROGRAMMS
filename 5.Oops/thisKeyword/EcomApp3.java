@@ -3,20 +3,20 @@ package thisKeyword;
 //Another use case of "this keyword" ---->to generate Builder pattern 
 public class EcomApp3 {
 
-	// (1).First Login () Then -----> produst searh()
+	// (1).First Login () Then -----> product Search()
 	// void & this cann't be together
 	public EcomApp3 login() { // this method return current class Object
 		System.out.println("Default Login");
 		return this;
-		// here I return like "return this" => so that it will retun current class
+		// here I return like "return this" => so that it will return current class
 		// Object
 
 		// instead of writing
-		// EcomApp3 ecom =new EcomApp3 ===> I write like retun this means Curren class
+		// EcomApp3 ecom =new EcomApp3 ===> I write like return this means Current class
 		// Object
 
 	}
-
+      //Using this we can write the Current Class Instance
 	public EcomApp3 login(String uname, String pwd) {
 		System.out.println("Login with uname & passwor" + uname + "" + pwd);
 		return this;
