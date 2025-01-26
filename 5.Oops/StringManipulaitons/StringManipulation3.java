@@ -12,7 +12,7 @@ public class StringManipulation3 {
 		String s = "This is my java code and I am so happy";
 		System.out.println(s.length());// 38
 		System.out.println(s.charAt(0));
-		System.out.println(s.charAt(37));
+		System.out.println(s.charAt(890));
 		// System.out.println(s.charAt(38));String index out of range: 38
 		// System.out.println(s.charAt(-1));String index out of range: -1
 		System.out.println(s.indexOf('j'));// 11
